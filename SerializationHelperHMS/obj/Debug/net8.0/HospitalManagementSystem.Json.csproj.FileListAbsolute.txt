@@ -1,0 +1,12 @@
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\bin\Debug\net8.0\HospitalManagementSystem.Json.deps.json
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\bin\Debug\net8.0\HospitalManagementSystem.Json.dll
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\bin\Debug\net8.0\HospitalManagementSystem.Json.pdb
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.csproj.AssemblyReference.cache
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.AssemblyInfoInputs.cache
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.AssemblyInfo.cs
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.csproj.CoreCompileInputs.cache
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.dll
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\refint\HospitalManagementSystem.Json.dll
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\HospitalManagementSystem.Json.pdb
+D:\c#\HospitalManagSystem\HospitalManagementSystem.Json\HospitalManagementSystem.Json\obj\Debug\net8.0\ref\HospitalManagementSystem.Json.dll
